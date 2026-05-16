@@ -55,8 +55,5 @@ Mật khẩu: 123admin
 
 🔗 Link online đã deploy
 Đường dẫn sản phẩm thử nghiệm (Live Deploy qua Ngrok Tunnel): https://nociceptive-krysta-egoistically.ngrok-free.dev/
-
-🖼️ Hình ảnh minh họa hệ thống
-<img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/6ca09235-c274-43ea-8271-94c899630877" />
 📺 Link video demo
 Liên kết xem Video Demo thuyết minh chi tiết dự án:https://drive.google.com/file/d/1DB8DKB-7OrUr0Dgxb8hfImYCm7BZAOI9/view
