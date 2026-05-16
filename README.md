@@ -39,5 +39,5 @@ Các tính năng nổi bật của hệ thống bao gồm:
 
 link sản phẩm:https://nociceptive-krysta-egoistically.ngrok-free.dev/
 tài khoản demo: tài khoản: adimpchub
-                mk:123admin
-   
+                mật khẩu:123admin
+ Link video demo:
