@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./screenshots/banner.png" alt="Smart PC Hub Banner" width="100%"/>
   <h1>💻 Smart PC Hub</h1>
   <h3>Website Thương mại Điện tử PC Gaming Cao Cấp</h3>
   <br/>
