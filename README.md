@@ -31,10 +31,10 @@ Hệ thống được đóng gói hoàn toàn bằng Docker, giúp loại bỏ t
 
 1. **Chuẩn bị môi trường:** Máy tính cần cài đặt sẵn **Docker Desktop** (hoặc Docker Engine & Docker Compose).
 2. **Clone mã nguồn:** Mở Terminal (hoặc Git Bash) và chạy chuỗi lệnh sau để tải mã nguồn và di chuyển vào thư mục dự án:
-   ```bash
-   git clone [https://github.com/SonDamNH/smartpchub-core.git](https://github.com/SonDamNH/smartpchub-core.git)
-   cd smartpchub-core
 
+```bash
+git clone [https://github.com/SonDamNH/smartpchub-core.git](https://github.com/SonDamNH/smartpchub-core.git)
+cd smartpchub-core
 ▶️ Hướng dẫn chạy project
 Tại thư mục gốc smartpchub-core, chạy lệnh sau để build các container và khởi chạy hệ thống ở chế độ chạy ngầm:
 
@@ -52,6 +52,10 @@ Tài khoản Quản trị viên (Admin):
 Tên đăng nhập: adimpchub
 
 Mật khẩu: 123admin
+
+🔗 Link online đã deploy
 Đường dẫn sản phẩm thử nghiệm (Live Deploy qua Ngrok Tunnel): https://nociceptive-krysta-egoistically.ngrok-free.dev/
 
-Đường dẫn sản phẩm demo: [[https://nociceptive-krysta-egoistically.ngrok-free.dev/](https://drive.google.com/drive/folders/1RJW2Y5r4dXRJLrRR8TzVZFvlDGtVcXBk?usp=drive_link)](https://drive.google.com/drive/folders/1RJW2Y5r4dXRJLrRR8TzVZFvlDGtVcXBk?usp=drive_link)
+🖼️ Hình ảnh minh họa hệ thống
+📺 Link video demo
+Liên kết xem Video Demo thuyết minh chi tiết dự án: Xem Video trên Google Drive
