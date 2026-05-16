@@ -140,7 +140,7 @@ docker-compose down
  
 > 🌐 **Live Deploy qua Ngrok Tunnel:**
 >
-> **[https://nociceptive-krysta-egoistically.ngrok-free.app/](https://nociceptive-krysta-egoistically.ngrok-free.app/)**
+> **[https://nociceptive-krysta-egoistically.ngrok-free.app/](https://nociceptive-krysta-egoistically.ngrok-free.dev/)**
 >
 > ⚠️ *Lưu ý: URL Ngrok Free có thể thay đổi sau mỗi lần khởi động lại tunnel. Nếu link không hoạt động, vui lòng liên hệ nhóm để lấy URL mới nhất.*
  
