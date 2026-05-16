@@ -115,16 +115,19 @@ docker-compose down
  
  
 ### Trang chủ
-![Trang chủ Smart PC Hub](./screenshots/homepage.png)
+<img width="1896" height="917" alt="image" src="https://github.com/user-attachments/assets/9b2d86b0-9fbb-4c5b-bca5-9fcdb554a98c" />
+
  
 ### Trang sản phẩm
-![Trang sản phẩm](./screenshots/product-page.png)
+<img width="1901" height="915" alt="image" src="https://github.com/user-attachments/assets/dceda77c-b804-4005-8fd2-cd59cd644c64" />
+
  
 ### Trang thanh toán QR (PayOS)
-![Thanh toán PayOS](./screenshots/checkout-payos.png)
- 
+<img width="998" height="801" alt="image" src="https://github.com/user-attachments/assets/86b13a35-598a-4f50-ad28-362e1f72516c" />
+
 ### Trang quản trị (Admin Dashboard)
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<img width="1896" height="913" alt="image" src="https://github.com/user-attachments/assets/2e73a984-2e87-49f3-9aeb-ed2d81cf0f8c" />
+
  
 ---
  
