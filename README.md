@@ -17,27 +17,28 @@ Các tính năng nổi bật của hệ thống bao gồm:
 | 2 | [Nguyễn Văn Thắng] | [MSSV 23810310058] | [Xây dựng cấu trúc HTML/CSS, Tối ưu giao diện Custom UI, Quản lý Layout] | 100% |
 | 3 | [Phạm Văn Tường] | [MSV 23810310058] | [Cấu hình WooCommerce, Xử lý tính năng Tìm kiếm FiboSearch, Quản trị hệ thống] | 100% |
 
-## 🛠️ Công nghệ sử dụng
-* **Nền tảng lõi (Core Framework):** WordPress 6.x
-* **Nền tảng thương mại điện tử:** WooCommerce
-* **Ngôn ngữ phát triển:** PHP 8.x, JavaScript, HTML5, CSS3 Custom (Flexbox, Glassmorphism UI)
-* **Hệ quản trị cơ sở dữ liệu:** MySQL / MariaDB
-* **API & Plugin tích hợp:**
-  * Cổng thanh toán: PayOS API
-  * Tìm kiếm động: FiboSearch (AJAX)
-* **Môi trường & Mạng:** Docker (Localhost), Ngrok (Tạo Tunnel Public)
+## 3. Công nghệ sử dụng
+* **Core Framework:** WordPress 6.x
+* **E-commerce Engine:** WooCommerce
+* **Frontend:** HTML5, CSS3 Custom (Flexbox, Glassmorphism UI)
+* **Backend/Database:** PHP 8.x, MySQL/MariaDB
+* **Môi trường & Triển khai (DevOps):** Docker & Docker Compose (Containerization)
+* **API & Plugin tích hợp:** PayOS API (Thanh toán QR), FiboSearch (AJAX Search)
+* **Network:** Ngrok (Secure Introspectable Tunnels)
 
-## ⚙️ Hướng dẫn cài đặt
-Để cài đặt hệ thống trên môi trường Localhost, vui lòng thực hiện các bước sau:
+## 4. Hướng dẫn cài đặt
+Hệ thống được đóng gói hoàn toàn bằng Docker, giúp loại bỏ triệt để lỗi "works on my machine" (chạy được trên máy tôi nhưng lỗi trên máy khác).
 
-1. **Chuẩn bị môi trường:** Cài đặt phần mềm Doker. Khởi động module Apache và MySQL.
+1. **Chuẩn bị môi trường:** Đảm bảo máy tính đã cài đặt **Docker Desktop** (hoặc Docker Engine & Docker Compose).
 2. **Clone mã nguồn:**
-   Tải mã nguồn về hoặc dùng lệnh git:
+   Mở Terminal (hoặc Git Bash) và chạy các lệnh sau để tải code và đi vào thư mục dự án:
    ```bash
-   git clone [[Nhập link Github Repository của nhóm bạn](https://github.com/SonDamNH/smartpchub-core)]
-   chạy git bash hoặc trong terminal lệnh để khời động server: ngrok http --domain=nociceptive-krysta-egoistically.ngrok-free.dev 80
+   git clone [https://github.com/SonDamNH/smartpchub-core.git](https://github.com/SonDamNH/smartpchub-core.git)
+   cd smartpchub-core
 
 link sản phẩm:https://nociceptive-krysta-egoistically.ngrok-free.dev/
 tài khoản demo: tài khoản: adimpchub
                 mật khẩu:123admin
  Link video demo:
+ <img width="1902" height="918" alt="image" src="https://github.com/user-attachments/assets/75802ff6-7c3b-40d5-8d77-dca180345c81" />
+
