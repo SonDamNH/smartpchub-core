@@ -36,4 +36,8 @@ Các tính năng nổi bật của hệ thống bao gồm:
    ```bash
    git clone [[Nhập link Github Repository của nhóm bạn](https://github.com/SonDamNH/smartpchub-core)]
    chạy git bash hoặc trong terminal lệnh để khời động server: ngrok http --domain=nociceptive-krysta-egoistically.ngrok-free.dev 80
+
+link sản phẩm:https://nociceptive-krysta-egoistically.ngrok-free.dev/
+tài khoản demo: tài khoản: adimpchub
+                mk:123admin
    
