@@ -36,9 +36,6 @@ Hệ thống được đóng gói hoàn toàn bằng Docker, giúp loại bỏ t
    git clone [https://github.com/SonDamNH/smartpchub-core.git](https://github.com/SonDamNH/smartpchub-core.git)
    cd smartpchub-core
 
-link sản phẩm:https://nociceptive-krysta-egoistically.ngrok-free.dev/
-tài khoản demo: tài khoản: adimpchub
-                mật khẩu:123admin
- Link video demo:
+link sản phẩm:[https://nociceptive-krysta-egoistically.ngrok-free.dev/]      (tài khoảnadimpchub    mật khẩu:123admin)
  <img width="1902" height="918" alt="image" src="https://github.com/user-attachments/assets/75802ff6-7c3b-40d5-8d77-dca180345c81" />
 
