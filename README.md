@@ -58,10 +58,5 @@ Mật khẩu: 123admin
 
 🖼️ Hình ảnh minh họa hệ thống
 <img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/6ca09235-c274-43ea-8271-94c899630877" />
-<img width="1901" height="915" alt="image" src="https://github.com/user-attachments/assets/8022c970-8368-4b55-8711-05dcec1e719b" />
-<img width="1324" height="749" alt="image" src="https://github.com/user-attachments/assets/590a0234-1826-4c9c-bf4c-883726b58fea" />
-<img width="768" height="711" alt="image" src="https://github.com/user-attachments/assets/58d0f6cf-0deb-4e57-84ca-48a7f0d404a4" />
-<img width="1051" height="745" alt="image" src="https://github.com/user-attachments/assets/88b96faa-91fd-462b-ae1f-221e1bb8b95d" />
-<img width="998" height="801" alt="image" src="https://github.com/user-attachments/assets/e4fe494b-32f9-438d-81ae-acb1bd6de70e" />
 📺 Link video demo
-Liên kết xem Video Demo thuyết minh chi tiết dự án:[(https://drive.google.com/drive/folders/1RJW2Y5r4dXRJLrRR8TzVZFvlDGtVcXBk?usp=drive_link)](https://drive.google.com/file/d/1DB8DKB-7OrUr0Dgxb8hfImYCm7BZAOI9/view?usp=sharing)
+Liên kết xem Video Demo thuyết minh chi tiết dự án:https://drive.google.com/file/d/1DB8DKB-7OrUr0Dgxb8hfImYCm7BZAOI9/view
